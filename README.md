@@ -38,6 +38,11 @@
 
 ---
 
+### 🎧 Last Played Tracks
+
+Loading...
+
+---
 
 ### 🌐 Let's Connect!
 <p align="center">
