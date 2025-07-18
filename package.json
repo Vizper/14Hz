@@ -1,0 +1,12 @@
+{
+  "name": "14hz-lastfm",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "update-lastfm.js",
+  "scripts": {
+    "update": "node update-lastfm.js"
+  },
+  "dependencies": {
+    "node-fetch": "^4.0.0"
+  }
+}
