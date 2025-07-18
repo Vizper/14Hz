@@ -2,7 +2,8 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 
 const LASTFM_API_KEY = "dde7b0ddef68c3c0bf0455ca0450b40a";
-const USERNAME = "Haze-path";
+const LASTFM_USERNAME = "Haze-path";
+const TRACK_LIMIT = 5;
 
 async function getRecentTracks() {
     const url = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${LASTFM_USERNAME}&api_key=${LASTFM_API_KEY}&format=json&limit=${TRACK_LIMIT}`;
@@ -25,4 +26,4 @@ async function updateReadme(tracks) {
     fs.writeFileSync("README.md", updated);
 }
 
-getTopTracks();
+getRecentTracks().then(updateReadme);
