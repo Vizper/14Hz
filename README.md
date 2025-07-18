@@ -37,7 +37,6 @@
 </p>
 
 ---
-
 ### 🎧 Last Played Tracks
 
 1. Loading...
@@ -45,7 +44,6 @@
 3. Loading...
 4. Loading...
 5. Loading...
-
 ---
 
 ### 🌐 Let's Connect!
