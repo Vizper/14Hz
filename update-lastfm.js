@@ -20,10 +20,16 @@ async function updateReadme(tracks) {
     const content = `### 🎧 Last Played Tracks\n\n${tracks.join("\n")}\n`;
     const readme = fs.readFileSync("README.md", "utf8");
     const updated = readme.replace(
-        /### 🎧 Last Played Tracks\n\n([\s\S]*?)\n(?=###|$)/,
+        /### 🎧 Last Played Tracks\n\n([\s\S]*?)(?=\n###|$)/,
         content
     );
     fs.writeFileSync("README.md", updated);
+    console.log("README.md updated!");
 }
 
-getRecentTracks().then(updateReadme);
+getRecentTracks()
+    .then((tracks) => {
+        console.log("Fetched tracks:", tracks);
+        updateReadme(tracks);
+    })
+    .catch((err) => console.error("Error fetching tracks:", err));
