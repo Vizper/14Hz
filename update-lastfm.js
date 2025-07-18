@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+import fetch from 'node-fetch';
 
 const LASTFM_API_KEY = "dde7b0ddef68c3c0bf0455ca0450b40a";
 const USERNAME = "Haze-path";
