@@ -31,8 +31,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=14Hz&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=14Hz&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=14Hz&show_icons=true&theme=radical&cache_seconds=60" width="450"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=14Hz&theme=radical" width="450"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify" />
+  <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
