@@ -12,7 +12,6 @@
 - 🧠 Currently learning **ethical hacking & fullstack web**
 - 🎨 I also enjoy exploring **graphic design**
 - 🏫 Student at **SMK Negeri 2 Depok Sleman**
-- 📬 Reach me at **daffahafiz1507@gmail.com**
 - 💼 I’m working on **personal projects** and **freelance gigs**
 - 🎯 Dreaming of becoming a **professional penetration tester**
 
@@ -21,10 +20,10 @@
 ### 🔧 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Tailwind](https://img.shields.io/badge/-Tailwind-2d2d2d?style=flat&logo=tailwind-css&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-ffffff?style=flat&logo=laravel&logoColor=F05340)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 
@@ -39,7 +38,7 @@
 ---
 
 ## 🎧 Last Played Tracks
-![Last.fm](https://img.shields.io/badge/Last.fm-Now%20Playing-F50057?style=for-the-badge&logo=last.fm&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-Last%20Played%20Tracks-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
 
 <!-- LASTFM:START -->
