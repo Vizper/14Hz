@@ -40,7 +40,11 @@
 ## 🎧 Last Played Tracks
 
 <!-- LASTFM:START -->
-Sedang memuat lagu...
+1. Siggerr - Still Fall In Love
+2. wave to earth - homesick
+3. Aziz Hedra - Somebody's Pleasure
+4. Tiara Andini - Gemintang Hatiku
+5. Hivi! - Siapkah Kau 'Tuk Jatuh Cinta Lagi
 <!-- LASTFM:END -->
 
 ---
