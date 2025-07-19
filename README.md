@@ -37,7 +37,10 @@
 </p>
 
 ---
+
 ## 🎧 Last Played Tracks
+![Last.fm](https://img.shields.io/badge/Last.fm-Now%20Playing-F50057?style=for-the-badge&logo=last.fm&logoColor=white)
+
 
 <!-- LASTFM:START -->
 1. Siggerr - Still Fall In Love
