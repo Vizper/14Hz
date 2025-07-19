@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-const LASTFM_API_KEY = "dde7b0ddef68c3c0bf0455ca0450b40a";
+const LASTFM_API_KEY = "c4e901f90da2a12ebb8b6d5cfa313b1f";
 const LASTFM_USERNAME = "Haze-path";
 const TRACK_LIMIT = 5;
 
