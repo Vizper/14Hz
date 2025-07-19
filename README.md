@@ -46,8 +46,8 @@
 1. Siggerr - Still Fall In Love
 2. wave to earth - homesick
 3. Aziz Hedra - Somebody's Pleasure
-4. Tiara Andini - Gemintang Hatiku
-5. Hivi! - Siapkah Kau 'Tuk Jatuh Cinta Lagi
+4. wave to earth - bonfire
+5. Rex Orange County - Happiness
 <!-- LASTFM:END -->
 
 ---
